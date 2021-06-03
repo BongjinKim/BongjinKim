@@ -2,8 +2,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBongjinKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/BongjinKim)](https://github.com/BongjinKim/)
-[![Tech Blog Badge](https://img.shields.io/badge/Notionbadge-Notion-lightgrey?style=flat-square&logo=github&link=https://github.com/BongjinKim)](https://www.notion.so/Naver-Boostcamp-AI-Tech-b2e5548bda074f4c911a9b3eb4e2cab1)
+[![Tech Blog Badge](http://img.shields.io/badge/-%20blog-black?style=flat-square&logo=github&link=https://github.com/BongjinKim)](https://www.linkedin.com/in/bongjin-kim-276698213/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Notion-lightgrey?style=flat-square&logo=github&link=https://github.com/BongjinKim)](https://www.notion.so/Naver-Boostcamp-AI-Tech-b2e5548bda074f4c911a9b3eb4e2cab1)
 
 <!--
 **BongjinKim/BongjinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
