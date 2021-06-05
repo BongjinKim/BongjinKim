@@ -10,7 +10,7 @@
 ### 💬 About me
 - [![image](https://img.shields.io/badge/-Notion-black??style=for-the-badge&logo=notion)](https://www.notion.so/AI-97f9bc19f8cd4087862f29e8ecbf7992)
 
-[![BongjinKim's github stats](https://github-readme-stats.vercel.app/api?username=BongjinKim)](https://github.com/anuraghazra/github-readme-stats)
+[![BongjinKim's github stats](https://github-readme-stats.vercel.app/api?username=BongjinKim&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BongjinKim/BongjinKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
