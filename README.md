@@ -5,8 +5,8 @@
 ### 😎 I'm Mechine Learning Engineer
 - Hello I am studying ai. I am very interested in tasks using the Korean language model and NLP. Also, I have a deep understanding of NLP because I dig until I understand any field. I want to change the world with these technologies. Thank you.
 
-### 🔭 Currently working
-- I'm studiing at Naver-Boost-Camp AI Tech
+<!-- ### 🔭 Currently working
+- I'm studiing at Naver-Boost-Camp AI Tech -->
 
 ### 💬 About me
 - [![image](https://img.shields.io/badge/-Notion-black??style=for-the-badge&logo=notion)](https://www.notion.so/AI-97f9bc19f8cd4087862f29e8ecbf7992)
